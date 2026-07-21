@@ -33,7 +33,7 @@ The purpose of FitnessMate is to support users who want to bulk, maintain weight
 
 Through this project, I aim to improve my skills in:
 
-- Full-stack web development
+-- Business and systems analysis for software projects
 - Database design
 - REST API development
 - User authentication
