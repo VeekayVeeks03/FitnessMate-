@@ -43,4 +43,4 @@ Through this project, I aim to improve my skills in:
 ## Author
 
 Vukosi Shikwambana  
-Final-year Computer Science student and aspiring Full-Stack Developer.
+Final-year Computer Science student interested in Business Analysis, Systems Analysis, Data, AI, SQL and Software Development.
